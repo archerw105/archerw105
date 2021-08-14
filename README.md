@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working at Ramp
-- 🌱 I’m currently learning about quantum physics from Feynman
+- 🌱 I’m currently learning about quantum mechanics
 - 👯 I’m looking to collaborate on hacking a new side project 
 - 🤔 I’m looking for help with learning about biotech, rockets + space, autonomous vehicles, tips for writing good essays, and so much more
 - 💬 Ask me about software, ML engineering, favorite places in Boston, history/literature, cello, and hockey
