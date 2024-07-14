@@ -9,10 +9,3 @@
   </a>&nbsp;&nbsp;
 </p>
 
-- 🔭 I’m currently working at Ramp
-- 🌱 I’m currently learning about quantum mechanics
-- 👯 I’m looking to collaborate on hacking a new side project 
-- 🤔 I’m looking for help with learning about biotech, rockets + space, autonomous vehicles, tips for writing good essays, and so much more
-- 💬 Ask me about software, favorite places in Boston, history/literature, cello, and hockey
-- 📫 How to reach me: archerdw@mit.edu
-- ⚡ Fun fact: I use my middle name David when they ask for my name at restaurants.
